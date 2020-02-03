@@ -1,33 +1,25 @@
-import React, {Component} from 'react';
-import './App.css';
+import React from "react";
 
-class App extends Component {
+import {BrowserRouter, Switch, Route } from 'react-router-dom';
 
-    constructor(props){
-        super(props);
+import Home from "./Home";
+import Counter from "./Counter";
+import Props from "./Counter";
 
-        this.state = {
-            counter: 0
-        }
-    }
+import "./index.css";
 
-    render(){
-
-        let { counter } = this.state;
-
-        return (
-            <div className="ComponentApp" data-test={'component-app'}>
-                <h1 data-test={'counter-display'}>Counter: {counter}</h1>
-                <button
-                    data-test={'increment-button'}
-                    onClick={() => this.setState({ counter: counter + 1 })}
-                >
-                    Increment counter
-                </button>
-            </div>
-        );
-    }
-
-}
+const App = () => (
+    <div>
+        <div className="container">
+            <BrowserRouter>
+                <Switch>
+                    <Route exact={true} path="/" component={Home} />
+                    <Route exaxt path="/counter" component={Counter} />
+                    <Route exact path="/props" component={Props} />
+                </Switch>
+            </BrowserRouter>
+        </div>
+    </div>
+);
 
 export default App;
