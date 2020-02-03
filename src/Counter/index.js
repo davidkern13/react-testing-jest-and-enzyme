@@ -39,21 +39,6 @@ class Index extends Component {
                 <h3 data-test="error-display">Counter cannot be less 0</h3>
                 }
 
-                {/*<Button*/}
-                {/*    val={'Increment'}*/}
-                {/*    count={+1}*/}
-                {/*    dataTest={"increment-button"}*/}
-                {/*    handleClick={this.handleClick.bind(this)}*/}
-                {/*/>*/}
-
-                {/*<Button*/}
-                {/*    val={'Decrement'}*/}
-                {/*    count={-1}*/}
-                {/*    dataTest={"decrement-button"}*/}
-                {/*    handleClick={this.handleClick.bind(this)}*/}
-                {/*/>*/}
-
-
                 <button onClick={() => this.handleClick(+1)} data-test="increment-button">
                     Increment
                 </button>
@@ -67,17 +52,5 @@ class Index extends Component {
         );
     }
 }
-
-// const Button = (props) => {
-//     return (
-//         <button onClick={() => props.handleClick(props.count)} data-test={props.dataTest}>
-//             {props.val}
-//         </button>
-//
-//     );
-// }
-
-
-
 
 export default Index;
