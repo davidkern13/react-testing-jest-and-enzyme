@@ -4,7 +4,8 @@ import {BrowserRouter, Switch, Route } from 'react-router-dom';
 
 import Home from "./Home";
 import Counter from "./Counter";
-import Props from "./Counter";
+import Congrats from "./Congrats";
+import GuessedWords from "./GuessedWords";
 
 import "./index.css";
 
@@ -15,7 +16,8 @@ const App = () => (
                 <Switch>
                     <Route exact={true} path="/" component={Home} />
                     <Route exaxt path="/counter" component={Counter} />
-                    <Route exact path="/props" component={Props} />
+                    <Route exact path="/congrats" component={Congrats} />
+                    <Route exact path="/guessed-words" component={GuessedWords} />
                 </Switch>
             </BrowserRouter>
         </div>
