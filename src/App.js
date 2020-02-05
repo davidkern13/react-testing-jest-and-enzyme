@@ -7,6 +7,7 @@ import Counter from "./Counter";
 import Mojjo from "./Mojjo";
 import Congrats from "./Congrats";
 import GuessedWords from "./GuessedWords";
+import InputComponent from "./Input";
 
 import "./index.css";
 
@@ -20,6 +21,7 @@ const App = () => (
                     <Route exaxt path="/mojjo" component={Mojjo} />
                     <Route exact path="/congrats" component={Congrats} />
                     <Route exact path="/guessed-words" component={GuessedWords} />
+                    <Route exact path="/input" component={InputComponent} />
                 </Switch>
             </BrowserRouter>
         </div>
