@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="955d6fb7-0aaf-42af-9269-67ec2474516c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Input/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Input/index.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mojjo/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Mojjo/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jestUtils/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/jestUtils/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/setupTests.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Input/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Input/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Input/index.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Input/index.test.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,11 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Input/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="272">
+              <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -54,11 +49,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Input/index.test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+            <state relative-caret-position="442">
+              <caret line="32" column="63" lean-forward="true" selection-start-line="32" selection-start-column="54" selection-end-line="32" selection-end-column="63" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -152,16 +147,16 @@
         <option value="$PROJECT_DIR$/src/reducers/successReducer.test.js" />
         <option value="$PROJECT_DIR$/src/App.js" />
         <option value="$PROJECT_DIR$/src/Mojjo/index.js" />
-        <option value="$PROJECT_DIR$/src/Input/index.js" />
         <option value="$PROJECT_DIR$/src/setupTests.js" />
         <option value="$PROJECT_DIR$/src/jestUtils/index.js" />
         <option value="$PROJECT_DIR$/src/Input/index.test.js" />
+        <option value="$PROJECT_DIR$/src/Input/index.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1358" />
-    <option name="y" value="-8" />
+    <option name="x" value="1583" />
+    <option name="y" value="276" />
     <option name="width" value="1378" />
     <option name="height" value="728" />
   </component>
@@ -258,12 +253,12 @@
       <workItem from="1580737613749" duration="9134000" />
       <workItem from="1580819516287" duration="2956000" />
       <workItem from="1580830682585" duration="8026000" />
-      <workItem from="1580901371537" duration="10003000" />
+      <workItem from="1580901371537" duration="10943000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52820000" />
+    <option name="totallyTimeSpent" value="53760000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -284,7 +279,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.10714286" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.10714286" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="1" />
@@ -307,7 +302,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
-      <window_info anchor="right" id="Terminal" order="10" visible="true" weight="0.36140725" />
+      <window_info active="true" anchor="right" id="Terminal" order="10" visible="true" weight="0.36140725" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -487,16 +482,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Input/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -537,10 +522,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Input/index.test.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        <state relative-caret-position="442">
+          <caret line="32" column="63" lean-forward="true" selection-start-line="32" selection-start-column="54" selection-end-line="32" selection-end-column="63" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Input/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
           </folding>
         </state>
       </provider>
