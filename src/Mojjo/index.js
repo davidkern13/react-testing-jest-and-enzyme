@@ -20,7 +20,6 @@ class Mojjo extends Component {
     }
 }
 
-export default Mojjo;
 const mapStateToProps = (state) => {
     return {};
 }
