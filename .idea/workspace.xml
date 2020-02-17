@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="955d6fb7-0aaf-42af-9269-67ec2474516c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/integration.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reducers/guessedWordsReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducers/secretWordReducer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/actions/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/actions/index.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/index.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jestUtils/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/jestUtils/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helpers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/helpers/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/integration.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/integration.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reducers/guessedWordsReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/guessedWordsReducer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/reducers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/setupTests.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,11 +18,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>redux</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -85,6 +80,12 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2022" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1581940291575">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2022" y="345" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1581940291575" />
   </component>
   <component name="masterDetails">
     <states>
