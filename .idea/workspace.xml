@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="955d6fb7-0aaf-42af-9269-67ec2474516c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/integration.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducers/guessedWordsReducer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mojjo/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Mojjo/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/actions/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/actions/index.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/index.test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/jestUtils/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/jestUtils/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reducers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/setupTests.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
